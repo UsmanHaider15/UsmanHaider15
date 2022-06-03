@@ -3,6 +3,7 @@ Full Stack Developer with 4+ years of hands-on experience of developing apps and
 Contact: usman.haider.developer@gmail.com
 
 ### Next Goals
+1. Learn UI/UX
 1. Learn SolidJs 
 2. Learn Golang for microservices
 3. Create tutorial blogs & Youtube Videos
