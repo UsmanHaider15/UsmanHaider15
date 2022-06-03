@@ -1,5 +1,7 @@
 Full Stack Developer with 4+ years of hands-on experience of developing apps and solutions using a range of technologies and programming languages. I have strong expertise in building Frontend applications using React and Flutter and building API servers in Node.js and Ruby on Rails using test driven development. I also have extensive experience in working with cloud technologies like Heroku, Firebase and AWS as well.
 
+Contact: usman.haider.developer@gmail.com
+
 ### Next Goals
 1. Learn SolidJs 
 2. Learn Golang for microservices
